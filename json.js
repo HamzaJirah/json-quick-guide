@@ -30,3 +30,5 @@ let students = [
     age: 34
   }
 ]
+
+console.log(students[1]);
