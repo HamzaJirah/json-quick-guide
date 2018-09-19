@@ -32,3 +32,6 @@ let students = [
 ]
 
 //loop through the student array objects
+for(let i = 0; i < students.length; i++){
+  console.log(students[i]);
+}
