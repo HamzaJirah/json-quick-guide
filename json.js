@@ -36,7 +36,7 @@ const studentsList = document.querySelector('#students');
 var output = "";
 for(var i = 0; i < students.length; i++){
   // console.log(students[i].age);
-  output += '<li>'+students[i].name+'</li>'
+  output += '<li>'+students[i].age+'</li>'
 }
 
 //output students names to html document
