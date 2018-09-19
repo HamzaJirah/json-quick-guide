@@ -7,4 +7,5 @@ let student = {
 
 //convert 'student' object to json
 student = JSON.stringify(student);
+//convert 'student' json object to object literal
 console.log(student.name);
