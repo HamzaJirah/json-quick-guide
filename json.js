@@ -38,3 +38,5 @@ for(var i = 0; i < students.length; i++){
   // console.log(students[i].age);
   output += '<li>'+students[i].name+'</li>'
 }
+
+//output students names to html document
