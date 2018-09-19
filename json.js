@@ -32,6 +32,7 @@ let students = [
 ]
 
 //loop through the student array objects
+
 var output = "";
 for(var i = 0; i < students.length; i++){
   // console.log(students[i].age);
