@@ -39,5 +39,5 @@ for(var i = 0; i < students.length; i++){
   output += '<li>'+students[i].age+'</li>'
 }
 
-//output students names to html document
+//output students name/age to html document
 studentsList.innerHTML = output;
