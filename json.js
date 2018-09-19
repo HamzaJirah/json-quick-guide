@@ -31,4 +31,4 @@ let students = [
   }
 ]
 
-console.log(students[1]);
+console.log(students[1].name);
