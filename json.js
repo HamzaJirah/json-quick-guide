@@ -2,7 +2,14 @@
 let student = {
   name: "Jirah",
   age: 28,
-  address: "Abuja"
+  address: "Abuja",
+  education: {
+    university: "Zaria",
+    secondary: "Shere"
+  },
+  siblings: [
+    
+  ]
 }
 
 //convert 'student' object to json
