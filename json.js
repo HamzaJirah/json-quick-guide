@@ -7,3 +7,4 @@ const student = {
 
 //convert 'student' object to json
 student = JSON.stringify();
+console.log(student);
