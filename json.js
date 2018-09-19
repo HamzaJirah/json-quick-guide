@@ -14,4 +14,20 @@ let student = {
 // student = JSON.stringify(student);
 //convert 'student' json object to object literal
 // student = JSON.parse(student);
+
+//create array literal
+let students = [
+  {
+    name: "Yusuf",
+    age: 30
+  },
+  {
+    name: "Zaradeen",
+    age: 24
+  },
+  {
+    name: "Usman",
+    age: 34
+  }
+]
 console.log(student.siblings[2]);
