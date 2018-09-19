@@ -14,4 +14,4 @@ let student = {
 // student = JSON.stringify(student);
 //convert 'student' json object to object literal
 // student = JSON.parse(student);
-console.log(student.name);
+console.log(student.education.secondary);
