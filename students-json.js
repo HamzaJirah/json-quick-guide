@@ -5,7 +5,7 @@ httpRequest.onload = function(){
   if(this.status === 200){
     const reponse = JSON.parse(httpRequest.responseText);
     const studentsList = document.querySelector('#students');
-    const studentsList = reponse.students;
+    // const studentsList = reponse.students;
     var output = "";
     for(var i = 0; i < students.length; i++){
       // console.log(students[i].age);
