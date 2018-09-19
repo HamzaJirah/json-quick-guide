@@ -7,4 +7,4 @@ let student = {
 
 //convert 'student' object to json
 student = JSON.stringify(student);
-console.log(student);
+console.log(student.name);
