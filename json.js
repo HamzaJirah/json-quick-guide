@@ -31,3 +31,4 @@ let students = [
   }
 ]
 
+//loop through the student array objects
