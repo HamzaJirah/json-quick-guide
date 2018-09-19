@@ -4,3 +4,5 @@ const student = {
   age: 28,
   address: "Abuja"
 }
+
+//convert 'student' object to json
