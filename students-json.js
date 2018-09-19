@@ -4,6 +4,7 @@ let httpRequest = new XMLHttpRequest();
 httpRequest.onload = function(){
   if(this.status === 200){
     const reponse = httpRequest.responseText
+    console.log(students.age);
   };
 }
 httpRequest.open("GET", "students.json", true);
