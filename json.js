@@ -40,3 +40,4 @@ for(var i = 0; i < students.length; i++){
 }
 
 //output students names to html document
+studentsList.innerHTML = output;
