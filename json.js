@@ -33,5 +33,5 @@ let students = [
 
 //loop through the student array objects
 for(var i = 0; i < students.length; i++){
-  console.log(students[i].age);
+  // console.log(students[i].age);
 }
