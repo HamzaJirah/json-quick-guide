@@ -7,9 +7,7 @@ let student = {
     university: "Zaria",
     secondary: "Shere"
   },
-  siblings: [
-    
-  ]
+  siblings: ["Zainab", "Rahab", "Barnabas"]
 }
 
 //convert 'student' object to json
